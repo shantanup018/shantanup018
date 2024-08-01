@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shantanu
-- 👀 I’m interested in Web Development 
 - 🌱 I’m MERN stack developer
-- 💞️ I’m looking to make a website for students for coding!
-- 📫 How to reach me:- pawarshantanu4318@gmail.com 
+- 👀 I’m interested in Web Development and DSA
+- 💞️ I’m looking to make a website for students of coding tips and tricks to make coding easy !
+- 📫 How to reach me:- pawarshantanu4318@gmail.com / Phone:- 8080684580
 
 
 <!---
